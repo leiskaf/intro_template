@@ -3,7 +3,5 @@ obj
 obj/*
 bin
 bin/*
-!bin/main
-!bin/main.smol.vndh
 dump
 dump/*
