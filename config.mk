@@ -1,0 +1,12 @@
+CC := gcc
+PYTHON3 := python3
+NASM := nasm
+
+LIBS := -lc -lSDL2 -lGL -lm 
+
+CANVAS_WIDTH  ?= 1920
+CANVAS_HEIGHT ?= 1080
+
+USE_AUDIO ?= 1
+
+INLINE_ASSEMBLY ?= 0

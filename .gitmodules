@@ -1,0 +1,6 @@
+[submodule "ext/vondehi"]
+	path = ext/vondehi
+	url = https://gitlab.com/PoroCYon/vondehi
+[submodule "ext/smol"]
+	path = ext/smol
+	url = https://github.com/PoroCYon/smol
